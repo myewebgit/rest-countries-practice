@@ -1,0 +1,13 @@
+.country{
+    background-color:aqua;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    /* text-align: center; */
+    
+}
+.img{
+    width:150px;
+    margin-left: 80px;
+    
+}
